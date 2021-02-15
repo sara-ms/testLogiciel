@@ -1,4 +1,5 @@
-Préconditions
+Préconditions:
+la connexion internet a été etablie
 Etapes à executé
 resultats attendues
 resultats trouvés
